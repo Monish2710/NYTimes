@@ -2,6 +2,9 @@
 
 This project is a SwiftUI and UIKit application designed to fetch and display the most popular articles from the New York Times API. It demonstrates modern approaches in Swift development, including data management with Core Data, efficient UI rendering, and robust testing practices.
 
+![Simulator Screen Recording - iPhone 15 Pro - 2024-09-03 at 01 37 14 (1)](https://github.com/user-attachments/assets/748eb829-36ff-4462-b0f1-05b73b434fe2)
+
+
 ## API Endpoint
 
 The app fetches data from the following New York Times API endpoint:
